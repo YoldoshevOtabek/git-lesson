@@ -5,6 +5,7 @@ export const App = () => {
   return (
     <div>
       <Redux/>
+      <p>App</p>
     </div>
   )
 }
