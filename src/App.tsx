@@ -7,6 +7,7 @@ export const App = () => {
       <Redux/>
       <p>App</p>
       <p>Lorem ipsum dolor sit amet.</p>
+      <span>Lorem ipsum dolor sit amet.</span>
     </div>
   )
 }
